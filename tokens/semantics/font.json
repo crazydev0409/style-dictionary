@@ -1,0 +1,59 @@
+{
+  "font-family": {
+    "value": "{font-family.Inter}",
+    "type": "fontFamilies"
+  },
+  "font-weight": {
+    "whisper": {
+      "value": "{font-weight.325}",
+      "type": "fontWeights"
+    },
+    "conversational": {
+      "value": "{font-weight.425}",
+      "type": "fontWeights"
+    },
+    "elevated": {
+      "value": "{font-weight.525}",
+      "type": "fontWeights"
+    },
+    "expressive": {
+      "value": "{font-weight.600}",
+      "type": "fontWeights"
+    },
+    "thunderous": {
+      "value": "{font-weight.700}",
+      "type": "fontWeights"
+    }
+  },
+  "line-height": {
+    "none": {
+      "value": "{line-height.0}",
+      "type": "lineHeights"
+    },
+    "tight": {
+      "value": "{line-height.100}",
+      "type": "lineHeights",
+      "description": "1.1"
+    },
+    "extra": {
+      "value": "{line-height.200}",
+      "type": "lineHeights",
+      "description": "1.2"
+    },
+    "standard": {
+      "value": "{line-height.300}",
+      "type": "lineHeights",
+      "description": "1.25"
+    },
+    "loose": {
+      "value": "{line-height.400}",
+      "type": "lineHeights",
+      "description": "1.33"
+    },
+    "airy": {
+      "value": "{line-height.500}",
+      "type": "lineHeights",
+      "description": "1.5"
+    }
+  }
+}

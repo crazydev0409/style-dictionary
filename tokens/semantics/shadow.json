@@ -1,0 +1,24 @@
+{
+  "shadow": {
+    "surface": {
+      "value": "{shadow.100}",
+      "type": "boxShadow"
+    },
+    "surface-raised-hover": {
+      "value": "{shadow.200}",
+      "type": "boxShadow"
+    },
+    "surface-raised": {
+      "value": "{shadow.300}",
+      "type": "boxShadow"
+    },
+    "surface-overlay-small": {
+      "value": "{shadow.500}",
+      "type": "boxShadow"
+    },
+    "surface-overlay-large": {
+      "value": "{shadow.600}",
+      "type": "boxShadow"
+    }
+  }
+}

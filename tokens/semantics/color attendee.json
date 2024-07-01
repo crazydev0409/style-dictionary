@@ -1,0 +1,106 @@
+{
+  "color": {
+    "accent": {
+      "1": {
+        "value": "{color.onyx.100}",
+        "type": "color"
+      },
+      "2": {
+        "value": "{color.onyx.200}",
+        "type": "color"
+      },
+      "3": {
+        "value": "{color.onyx.300}",
+        "type": "color"
+      },
+      "4": {
+        "value": "{color.onyx.400}",
+        "type": "color"
+      },
+      "5": {
+        "value": "{color.onyx.500}",
+        "type": "color"
+      },
+      "6": {
+        "value": "{color.onyx.600}",
+        "type": "color"
+      },
+      "7": {
+        "value": "{color.onyx.700}",
+        "type": "color"
+      },
+      "8": {
+        "value": "{color.onyx.800}",
+        "type": "color"
+      },
+      "9": {
+        "value": "{color.onyx.900}",
+        "type": "color"
+      },
+      "10": {
+        "value": "{color.onyx.1000}",
+        "type": "color"
+      },
+      "11": {
+        "value": "{color.onyx.1100}",
+        "type": "color"
+      },
+      "12": {
+        "value": "{color.onyx.1200}",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "{color.onyx.contrast}",
+        "type": "color"
+      },
+      "a1": {
+        "value": "{color.onyxAlpha.100}",
+        "type": "color"
+      },
+      "a2": {
+        "value": "{color.onyxAlpha.200}",
+        "type": "color"
+      },
+      "a3": {
+        "value": "{color.onyxAlpha.300}",
+        "type": "color"
+      },
+      "a4": {
+        "value": "{color.onyxAlpha.400}",
+        "type": "color"
+      },
+      "a5": {
+        "value": "{color.onyxAlpha.500}",
+        "type": "color"
+      },
+      "a6": {
+        "value": "{color.onyxAlpha.600}",
+        "type": "color"
+      },
+      "a7": {
+        "value": "{color.onyxAlpha.700}",
+        "type": "color"
+      },
+      "a8": {
+        "value": "{color.onyxAlpha.800}",
+        "type": "color"
+      },
+      "a9": {
+        "value": "{color.onyxAlpha.900}",
+        "type": "color"
+      },
+      "a10": {
+        "value": "{color.onyxAlpha.1000}",
+        "type": "color"
+      },
+      "a11": {
+        "value": "{color.onyxAlpha.1100}",
+        "type": "color"
+      },
+      "a12": {
+        "value": "{color.onyxAlpha.1200}",
+        "type": "color"
+      }
+    }
+  }
+}

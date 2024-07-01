@@ -1,12 +1,7 @@
-node_modules
-# Keep environment variables out of version control
-.env
-data.json
-docker-compose.ym
+/node_modules
+**/.DS_Store
+css
+doc
+.vscode
 .DS_Store
-prisma/migrations
-prisma/generated
-yarn.lock
 .idea
-.history/
-coverage/

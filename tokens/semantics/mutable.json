@@ -1,0 +1,8 @@
+{
+  "color": {
+    "scrim": {
+      "value": "{color.black.a9}",
+      "type": "color"
+    }
+  }
+}
